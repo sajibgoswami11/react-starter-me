@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "grosserylist-af1bd"
+    "default": "foodcourt-ebe47",
+    "n": "foodcourt-ebe47",
+    "amazonair": "foodcourt-ebe47"
   }
 }

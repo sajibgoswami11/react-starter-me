@@ -24,13 +24,5 @@ function App() {
     </Router>
   );
 }
-{
-  /* We need React Router */
-}
-{
-  /* localhost.com/checkout */
-}
-{
-  /* localhost.com/login*/
-}
+
 export default App;
